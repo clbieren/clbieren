@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there I'm Eren👋
 
-<!--
-**clbieren/clbieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineering student from Turkey, passionate about OOP, algorithms, and programming projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Improving my C projects
+- Learning advanced Java and data structures
+
+---
+
+## 💪 Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)
+
+**Areas of Interest:** OOP, Algorithms, Data Structures
+
+---
+
+## 📂 Projects
+
+Check all my projects here: [GitHub Repolarım](https://github.com/clbieren?tab=repositories)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: clbieren4@icloud.com
+
+---
+
