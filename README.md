@@ -1,19 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Eren+%C3%87elebi;Software+Engineering+Student;Java+%26+OOP+Enthusiast;Learning+Cloud+%26+AI..." alt="Typing SVG" />
-</div>
+<h1 align="center">Hi there, I'm Eren Çelebi 👋</h1>
+<h3 align="center">Software Engineering Student</h3>
 
 <div align="center">
   <h3>🚀 About Me</h3>
 </div>
 
 <p align="center">
-  I am a second-year <b>Software Engineering</b> student based in <b>Turkey</b>. I am currently building a strong foundation in <b>Java</b> and <b>Object-Oriented Programming (OOP)</b> principles.
+  I am a second-year <b>Software Engineering</b> student based in <b>Turkey</b>. I am currently building a comprehensive technical foundation, spanning from low-level system concepts (C, Linux) to high-level application architecture with <b>Java</b>.
   <br><br>
   My future goal is to specialize in <b>Artificial Intelligence</b> and <b>Cloud Computing</b> technologies. I am actively improving my skills in algorithms, data structures, and version control systems.
 </p>
 
 - 🌱 I’m currently learning **Linux Command Line** and **Data Structures**.
-- 🔭 I’m focusing on writing clean, scalable **Java** code.
+- 🔭 I’m combining **Advanced Data Structures** and **Linux** system proficiency to build robust **Java** architectures, paving the way for high-performance **AI & Cloud** solutions.
 
 ---
 
@@ -38,19 +37,6 @@
   </p>
   <a href="https://github.com/clbieren?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <br>
-  <a href="https://github.com/clbieren">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clbieren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Eren's Stats" />
-  </a>
-  <a href="https://github.com/clbieren">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clbieren&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
   </a>
 </div>
 
