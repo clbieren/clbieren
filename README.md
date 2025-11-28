@@ -4,8 +4,16 @@
 
 I don't just write code to make it work; I strive to understand the underlying **algorithmic logic** and **software architecture**. Parallel to my academic studies, I am deeply analyzing data structures with C and designing scalable system architectures with Java.
 
-[![](https://img.shields.io/badge/Email-Contact_Me-333?style=for-the-badge&logo=icloud&logoColor=white)](mailto:clbieren4@icloud.com)
-[![](https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-çelebi-277040399)
+<div align="left">
+  <img src="https://img.shields.io/badge/Connect_with_Me-Below-black?style=flat-square&logo=github&logoColor=white" alt="Connect" />
+  <br />
+  <a href="mailto:clbieren4@icloud.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eren-çelebi-277040399">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
