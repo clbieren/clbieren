@@ -11,7 +11,7 @@
   My future goal is to specialize in <b>Artificial Intelligence</b> and <b>Cloud Computing</b> technologies. I am actively improving my skills in algorithms, data structures, and version control systems.
 </p>
 
-- 🌱 I’m currently learning **Linux Command Line** and **Data Structures**.
+- 🌱 I’m currently learning **Linux Command Line**, **Data Structures**, and **Docker**.
 - 🔭 I’m combining **Advanced Data Structures** and **Linux** system proficiency to build robust **Java** architectures, paving the way for high-performance **AI & Cloud** solutions.
 
 ---
@@ -25,6 +25,7 @@
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
 </div>
 
