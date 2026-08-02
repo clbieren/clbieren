@@ -1,66 +1,106 @@
-<h1 align="center">Hi, I'm Eren Çelebi 👋</h1>
-<h3 align="center">Backend & Cloud-Focused Software Engineering Student</h3>
-
-<div align="center">
-  <h3>🚀 About Me</h3>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:3B82F6&text=EREN%20%C3%87ELEB%C4%B0&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Backend&descAlignY=60&animation=fadeIn"/>
+</p>
 
 <p align="center">
-  I am a Software Engineering student focused on backend development, cloud computing, and software architecture.
-  <br><br>
-  I am primarily interested in how real-world systems are designed — how they scale, handle failures, and operate reliably under load. My focus is not just building applications, but understanding the systems behind them.
-  <br><br>
-  I build projects to explore backend fundamentals such as API design, database systems, and service architecture, while also developing a strong foundation in Linux and low-level concepts.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Reliable+Systems;Learning+DevOps+by+Building;Linux+%7C+Docker+%7C+Cloud;Infrastructure+Over+Magic;Always+Learning."/>
+</p>
+
+<h3 align="center">
+DevOps • Cloud Infrastructure • Backend Engineering
+</h3>
+
+<p align="center">
+I build software to understand how modern systems are deployed, operated, and scaled.
 </p>
 
 ---
 
-- ⚙️ Currently working on backend systems, focusing on API design, database interactions, and scalable architectures  
-- 🐳 Exploring containerization and consistent deployment workflows with Docker  
-- 🧠 Strengthening fundamentals in data structures, system design, and Linux  
-- ☁️ Interested in distributed systems, cloud-native applications, and event-driven architectures  
+# 🚀 About Me
+
+I am a Software Engineering student focused on **DevOps**, **cloud infrastructure**, **backend engineering**, and **software architecture**.
+
+Rather than only building applications, I enjoy understanding how real-world systems are deployed, monitored, automated, and maintained in production.
+
+Currently, I am strengthening my fundamentals in Linux, containerization, backend development, and cloud-native technologies while continuously exploring how reliable systems are designed.
 
 ---
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
+# 🎯 Current Focus
 
-  <img src="https://img.shields.io/badge/Backend-Systems-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-Design-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databases-SQL%20%2F%20NoSQL-informational?style=for-the-badge" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+- ⚙️ Backend Engineering
+- ☁️ Cloud Infrastructure
+- 🐳 Docker & Containerization
+- 🐧 Linux
+- 🔄 CI/CD
+- 📦 Infrastructure Automation
+- 🏗 Software Architecture
+- 🌍 Distributed Systems
 
 ---
 
-<div align="center">
-  <h3>📂 Projects</h3>
-  <p>
-    I focus on building backend-oriented projects where I apply system design, APIs, and infrastructure concepts.
-    <br/>
-    Check out my repositories below:
-  </p>
-  <a href="https://github.com/clbieren?tab=repositories">
-    <img src="https://img.shields.io/badge/View_Projects-2196F3?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,linux,docker,git,github,postgres,mysql,bash,vscode,idea&theme=dark"/>
+
+</p>
 
 ---
 
-<div align="center">
-  <h3>🤝 Connect</h3>
-  <a href="https://www.linkedin.com/in/clbieren/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:clbieren4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+# 📂 Projects
+
+I build projects that help me understand how software behaves beyond the code itself.
+
+My repositories mainly focus on:
+
+- Backend Development
+- Infrastructure
+- API Design
+- Containerization
+- Software Architecture
+- Linux
+- DevOps Practices
+
+<p align="center">
+
+<a href="https://github.com/clbieren?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> Good software is more than code.
+>
+> Reliable systems are built through simplicity, automation, and solid engineering fundamentals.
+
+---
+
+# 🤝 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/clbieren/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:clbieren4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=150&color=0:3B82F6,100:0D1117"/>
+
+</p>
