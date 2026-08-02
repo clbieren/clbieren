@@ -11,7 +11,7 @@ DevOps • Cloud Infrastructure • Backend Engineering
 </h3>
 
 <p align="center">
-I build software to understand how modern systems are deployed, operated, and scaled.
+I build software to understand how modern systems are deployed, automated, monitored, and scaled.
 </p>
 
 ---
@@ -20,9 +20,9 @@ I build software to understand how modern systems are deployed, operated, and sc
 
 I am a Software Engineering student focused on **DevOps**, **cloud infrastructure**, **backend engineering**, and **software architecture**.
 
-Rather than only building applications, I enjoy understanding how real-world systems are deployed, monitored, automated, and maintained in production.
+I enjoy understanding how modern systems work behind the scenes—from Linux and networking to containerization, deployment pipelines, and scalable backend services.
 
-Currently, I am strengthening my fundamentals in Linux, containerization, backend development, and cloud-native technologies while continuously exploring how reliable systems are designed.
+Rather than simply writing code, my goal is to understand how reliable production systems are designed, deployed, and maintained.
 
 ---
 
@@ -31,8 +31,8 @@ Currently, I am strengthening my fundamentals in Linux, containerization, backen
 - ⚙️ Backend Engineering
 - ☁️ Cloud Infrastructure
 - 🐳 Docker & Containerization
-- 🐧 Linux
-- 🔄 CI/CD
+- 🐧 Linux & System Administration
+- 🔄 CI/CD Pipelines
 - 📦 Infrastructure Automation
 - 🏗 Software Architecture
 - 🌍 Distributed Systems
@@ -47,21 +47,38 @@ Currently, I am strengthening my fundamentals in Linux, containerization, backen
 
 </p>
 
+<p align="center">
+<sub>
+
+Java &nbsp;&nbsp;•&nbsp;&nbsp;
+C &nbsp;&nbsp;•&nbsp;&nbsp;
+Linux &nbsp;&nbsp;•&nbsp;&nbsp;
+Docker &nbsp;&nbsp;•&nbsp;&nbsp;
+Git &nbsp;&nbsp;•&nbsp;&nbsp;
+GitHub &nbsp;&nbsp;•&nbsp;&nbsp;
+PostgreSQL &nbsp;&nbsp;•&nbsp;&nbsp;
+MySQL &nbsp;&nbsp;•&nbsp;&nbsp;
+Bash
+
+</sub>
+</p>
+
 ---
 
 # 📂 Projects
 
-I build projects that help me understand how software behaves beyond the code itself.
+I build projects to strengthen my understanding of backend engineering, infrastructure, and DevOps practices.
 
 My repositories mainly focus on:
 
-- Backend Development
-- Infrastructure
-- API Design
+- REST APIs
 - Containerization
-- Software Architecture
 - Linux
-- DevOps Practices
+- Software Architecture
+- Cloud Concepts
+- Database Design
+- Automation
+- Infrastructure
 
 <p align="center">
 
@@ -75,32 +92,56 @@ My repositories mainly focus on:
 
 # 💡 Philosophy
 
-> Good software is more than code.
+> Good software is more than writing code.
 >
-> Reliable systems are built through simplicity, automation, and solid engineering fundamentals.
+> Reliable systems are built through strong fundamentals, automation, and continuous learning.
 
 ---
 
 # 🤝 Connect
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://www.linkedin.com/in/clbieren/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<td align="center" width="180">
+
+<a href="https://www.linkedin.com/in/clbieren/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+
+<br><br>
+
+<b>LinkedIn</b>
+
+<br>
+
+<sub>Professional Profile</sub>
+
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center" width="180">
 
 <a href="mailto:clbieren4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+
+<br><br>
+
+<b>Email</b>
+
+<br>
+
+<sub>Let's Connect</sub>
+
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=150&color=0:3B82F6,100:0D1117"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=150&color=0:3B82F6,100:0D1117"/>
 </p>
