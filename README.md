@@ -28,8 +28,8 @@ Rather than simply writing code, my goal is to understand how reliable productio
 
 # 🎯 Current Focus
 
-- ⚙️ Backend Engineering
-- ☁️ Cloud Infrastructure
+- ⚙️ DevOps & Infrastructure
+- ☁️ Cloud Computing
 - 🐳 Docker & Containerization
 - 🐧 Linux & System Administration
 - 🔄 CI/CD Pipelines
@@ -41,27 +41,56 @@ Rather than simply writing code, my goal is to understand how reliable productio
 
 # 🛠 Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=java,c,linux,docker,git,github,postgres,mysql,bash,vscode,idea&theme=dark"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/><br>
+<sub>Java</sub>
+</td>
 
-</p>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c&theme=dark"/><br>
+<sub>C</sub>
+</td>
 
-<p align="center">
-<sub>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark"/><br>
+<sub>Linux</sub>
+</td>
 
-Java &nbsp;&nbsp;•&nbsp;&nbsp;
-C &nbsp;&nbsp;•&nbsp;&nbsp;
-Linux &nbsp;&nbsp;•&nbsp;&nbsp;
-Docker &nbsp;&nbsp;•&nbsp;&nbsp;
-Git &nbsp;&nbsp;•&nbsp;&nbsp;
-GitHub &nbsp;&nbsp;•&nbsp;&nbsp;
-PostgreSQL &nbsp;&nbsp;•&nbsp;&nbsp;
-MySQL &nbsp;&nbsp;•&nbsp;&nbsp;
-Bash
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark"/><br>
+<sub>Docker</sub>
+</td>
 
-</sub>
-</p>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark"/><br>
+<sub>PostgreSQL</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/><br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bash&theme=dark"/><br>
+<sub>Bash</sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -69,16 +98,16 @@ Bash
 
 I build projects to strengthen my understanding of backend engineering, infrastructure, and DevOps practices.
 
-My repositories mainly focus on:
+Current topics include:
 
 - REST APIs
 - Containerization
 - Linux
-- Software Architecture
 - Cloud Concepts
-- Database Design
-- Automation
 - Infrastructure
+- Database Design
+- Software Architecture
+- Automation
 
 <p align="center">
 
@@ -106,9 +135,9 @@ My repositories mainly focus on:
 <td align="center" width="180">
 
 <a href="https://www.linkedin.com/in/clbieren/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 
-<br><br>
+<br>
 
 <b>LinkedIn</b>
 
@@ -123,15 +152,15 @@ My repositories mainly focus on:
 <td align="center" width="180">
 
 <a href="mailto:clbieren4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 
-<br><br>
+<br>
 
 <b>Email</b>
 
 <br>
 
-<sub>Let's Connect</sub>
+<sub>clbieren4@gmail.com</sub>
 
 </a>
 
